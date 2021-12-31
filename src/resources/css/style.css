@@ -1,0 +1,64 @@
+/**
+* Facebook Feed plugin for Craft CMS
+*
+* Facebook Feed CSS
+*
+* @author    dotsquares
+* @copyright Copyright (c) 2021 dotsquares
+* @link      https://dotsquares.com
+* @package   FacebookFeed
+* @since     1.0.0
+*/
+
+*{outline:none !important;}
+.card { border: none }
+.ellipsis { color: #a09c9c }
+hr { color: #a09c9c; margin-top: 4px; margin-bottom: 8px }
+.muted-color { color: #a09c9c; font-size: 13px }
+.ellipsis i { margin-top: 3px; cursor: pointer }
+.icons i { font-size: 25px }
+.icons .fa-heart { color: red }
+.icons .fa-smile-o { color: yellow; font-size: 29px }
+.rounded-image { border-radius: 50% !important; display: flex; justify-content: center; align-items: center; height: 50px; width: 50px }
+.name { font-weight: 600 }
+.comment-text { font-size: 12px }
+.status small { margin-right: 10px; color: blue }
+.form-control { border-radius: 26px }
+.comment-input { position: relative }
+.fonts { position: absolute; right: 13px; top: 8px; color: #a09c9c }
+.form-control:focus { color: #495057; background-color: #fff; border-color: #8bbafe; outline: 0; box-shadow: none }
+
+.cta-content p { color: #000; }
+.cta-content h2 { color: #000; }
+
+.masonrycss .block a{color: #000;}
+
+.masonrycss { -webkit-columns: 4; -moz-columns: 4; columns: 4; -webkit-column-gap: 25px; -moz-column-gap: 25px; column-gap: 25px; }
+.masonrycss .block { margin-bottom: 25px; -webkit-column-break-inside: avoid; page-break-inside: avoid; break-inside: avoid; text-align: left; }
+.masonrycss a{color: #000;}
+
+
+
+#news-slider .owl-nav { position: absolute; right: 0; top: -39px; }
+#news-slider .owl-nav button { width: 30px; height: 30px; border-radius: 100px; border: solid 1px #ddd; font-size: 25px; margin: 0 4px; opacity: inherit; background: #FFF; }
+#news-slider .owl-nav button span { padding: 0; height: auto; position: relative; top: -8px; }
+
+footer { padding: 22px 0; }
+
+footer p.copyright { color: #ffffff; }
+
+
+
+@media(max-width:991px){
+.masonrycss { -webkit-columns: 3; -moz-columns: 3; columns: 3; }
+	
+}
+
+@media(max-width:767px){
+.masonrycss { -webkit-columns:2; -moz-columns:2; columns: 2; }
+
+}
+@media(max-width:479px){
+.masonrycss { -webkit-columns:1; -moz-columns:1; columns: 1; }
+
+}

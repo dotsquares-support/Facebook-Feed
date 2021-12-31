@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <clipPath id="clip-facebbok-feed">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="facebbok-feed" clip-path="url(#clip-facebbok-feed)">
+    <g id="Group_3" data-name="Group 3" transform="translate(-20.79 6.016)">
+      <g id="Group_1" data-name="Group 1" transform="translate(42.79 55.373)">
+        <rect id="Rectangle_1_copy_3" data-name="Rectangle 1 copy 3" width="7.74" height="7.74" transform="translate(0 0)" fill="#f68220"/>
+        <rect id="Rectangle_1_copy_3-2" data-name="Rectangle 1 copy 3" width="7.729" height="7.729" transform="translate(8.562 0.015)" fill="#f68220"/>
+        <rect id="Rectangle_1_copy_3-3" data-name="Rectangle 1 copy 3" width="7.729" height="7.729" transform="translate(17.106 0.015)" fill="#f68220"/>
+        <rect id="Rectangle_1_copy_4" data-name="Rectangle 1 copy 4" width="7.729" height="7.769" transform="translate(17.106 8.595)" fill="#f68220"/>
+        <rect id="Rectangle_1_copy_5" data-name="Rectangle 1 copy 5" width="7.729" height="7.729" transform="translate(0.022 8.635)" fill="#f68220"/>
+        <rect id="Rectangle_1_copy_5-2" data-name="Rectangle 1 copy 5" width="7.729" height="7.729" transform="translate(8.562 8.635)" fill="#2c3e7e"/>
+        <rect id="Rectangle_1_copy_6" data-name="Rectangle 1 copy 6" width="7.729" height="7.729" transform="translate(0.022 17.139)" fill="#f68220"/>
+        <rect id="Rectangle_1_copy_6-2" data-name="Rectangle 1 copy 6" width="7.729" height="7.729" transform="translate(8.562 17.179)" fill="#f68220"/>
+        <rect id="Rectangle_1_copy_6-3" data-name="Rectangle 1 copy 6" width="7.729" height="7.729" transform="translate(17.106 17.179)" fill="#f68220"/>
+      </g>
+      <path id="Icon_awesome-facebook-f" data-name="Icon awesome-facebook-f" d="M37.793,40.667,39.8,27.583H27.247V19.092c0-3.58,1.754-7.069,7.377-7.069h5.707V.884A69.6,69.6,0,0,0,30.2,0C19.86,0,13.1,6.267,13.1,17.611v9.972H1.609V40.667H13.1V72.3H27.247V40.667Z" transform="translate(57.96 7.984)" fill="#4268b3"/>
+    </g>
+  </g>
+</svg>
