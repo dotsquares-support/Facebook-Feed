@@ -29,11 +29,11 @@ Display a completely responsive & customizable facebook feed on your website whi
 
 ## Configuring Facebook Feed
 
--Insert text here-
+- Go to Settings>Plugins-> Facebook Feed Enter your Facebook Access Token and Facebook Page id enable the other customization settings and layout as you like.
 
 ## Using Facebook Feed
 
--Insert text here-
+- In your Craft twig template paste {{craft.facebook.getslides()}}
 
 ## Facebook Feed Roadmap
 
