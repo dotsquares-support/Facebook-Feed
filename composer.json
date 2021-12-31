@@ -22,7 +22,7 @@
     "source": "https://github.com/dotsquares-support/Facebook-Feed/",
     "docs": "https://github.com/dotsquares-support/Facebook-Feed/blob/master/README.md"
   "require": {
-    "craftcms/cms": "^3.1.0""
+    "craftcms/cms": "^3.1.0"
   },
   "autoload": {
     "psr-4": {
