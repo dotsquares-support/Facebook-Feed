@@ -36,5 +36,6 @@
     "hasCpSection": false,
     "hasSettings": true,
     "class": "ds\\facebook\\Facebook"
+    
   }
 }
