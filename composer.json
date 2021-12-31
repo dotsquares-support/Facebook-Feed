@@ -17,11 +17,10 @@
         }
   ],
   "support": {
-    "email": "namita.kaloya@dotsquares.com",
-    "issues": "https://github.com/developer/repo/issues?state=open",
-    "source": "https://github.com/developer/repo",
-    "docs": "https://github.com/developer/repo/blob/master/README.md"
-  },
+    "email": "support.extensions@dotsquares.com",
+    "issues": "https://github.com/dotsquares-support/Facebook-Feed/issues",
+    "source": "https://github.com/dotsquares-support/Facebook-Feed/",
+    "docs": "https://github.com/dotsquares-support/Facebook-Feed/blob/master/README.m
   "require": {
     "craftcms/cms": "^3.1.0"
   },

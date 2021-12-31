@@ -2,7 +2,7 @@
 
 Get Posts from Your Facebook Page
 
-![Screenshot](resources/img/facebook-feed.png)
+<img src="src/icon.svg" alt="icon" width="100" height="100">
 
 ## Requirements
 
@@ -18,21 +18,22 @@ To install the plugin, follow these instructions.
 
 2. Then tell Composer to load the plugin:
 
-        composer require /facebook-feed
+       composer require ds/craft-facebook
 
 3. In the Control Panel, go to Settings → Plugins and click the “Install” button for Facebook Feed.
 
 ## Facebook Feed Overview
 
--Insert text here-
+Facebook Feed is a WordPress plugin that displays Facebook, Twitter and Instagram feed of your pages on your website. Facebook feed is very easy to use and in few minutes you can show any public facebook page feed on your website. Each social network can be signed into individually and there are several options to customize the displayed feed.
+Display a completely responsive & customizable facebook feed on your website which match with the look and feel of your website.
 
 ## Configuring Facebook Feed
 
--Insert text here-
+- Go to Settings>Plugins-> Facebook Feed Enter your Facebook Access Token and Facebook Page id enable the other customization settings and layout as you like.
 
 ## Using Facebook Feed
 
--Insert text here-
+- In your Craft twig template paste {{craft.facebook.getslides()}}
 
 ## Facebook Feed Roadmap
 
