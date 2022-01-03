@@ -24,8 +24,7 @@ To install the plugin, follow these instructions.
 
 ## Facebook Feed Overview
 
-Facebook Feed is a WordPress plugin that displays Facebook, Twitter and Instagram feed of your pages on your website. Facebook feed is very easy to use and in few minutes you can show any public facebook page feed on your website. Each social network can be signed into individually and there are several options to customize the displayed feed.
-Display a completely responsive & customizable facebook feed on your website which match with the look and feel of your website.
+Want to take complete control over the feeds that will appear on your website then Facebook Feed is the best solution you can use. Using the widget or shortcodes that come with the plugin, you can easily show Facebook posts, videos, and photographs. Adding a Facebook plugin will help you to connect with your customers via the help of Facebook channel and increase your brand’s growth over time. To add the Facebook feed plugin to your site, website owners can get the shortcode and paste it on the webpage where they want to show the Facebook posts, videos and feeds. The Facebook Feed plugin will by default make posts visible in the grid form on the front-end but with some advanced settings you can customize the layout option in the slider pattern also. Facebook Feed will display information of your Facebook profile like - your Facebook page name, your Facebook profile name, and any shared photographs with their associated message. You can also restrict the information from appearing on the website page. For example, you can hide the page name, profile picture, posted time, etc.
 
 ## Configuring Facebook Feed
 
