@@ -93,7 +93,7 @@ class Facebook extends Plugin
              function (Event $event) {
                  /** @var CraftVariable $variable */
                  $variable = $event->sender;
-                 $variable->set('facebook', variables\FacebooktestVariable::class);
+                 $variable->set('dsfacebook', variables\FacebooktestVariable::class);
              }
          );
 
