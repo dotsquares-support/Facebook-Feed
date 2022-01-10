@@ -2,7 +2,7 @@
   "name": "ds/craft-facebook",
   "description": "A plugin for Craft CMS that helps you to add Facebook Feed in  your Craftcms website.",
   "type": "craft-plugin",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "keywords": ["craft",
   	"cms",
   	"craftcms",
