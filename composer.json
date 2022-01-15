@@ -26,12 +26,12 @@
   },
   "autoload": {
     "psr-4": {
-      "ds\\\facebook\\": "src/"
+      "ds\\facebook\\": "src/"
     }
   },
   "extra": {
     "name": "Facebook Feed",
-    "handle": "dsfacebook",
+    "handle": "facebook",
     "description": "Add your public facebook page feed to your Craft CMS site",
     "hasCpSection": false,
     "hasSettings": true,
