@@ -31,7 +31,7 @@
   },
   "extra": {
     "name": "Facebook Feed",
-    "handle": "facebook",
+    "handle": "dsfacebook",
     "description": "Add your public facebook page feed to your Craft CMS site",
     "hasCpSection": false,
     "hasSettings": true,
