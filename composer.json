@@ -2,28 +2,25 @@
   "name": "ds/craft-facebook",
   "description": "A plugin for Craft CMS that helps you  to add Facebook Feed in  your Craftcms website",
   "type": "craft-plugin",
-
-     "version": "1.1.0",
-  "keywords": [
-    "craft",
-    "cms",
-    "craftcms",
-    "facebook",
-    "facebook-feed"
-  ],
+  "version": "1.0.0",
+  "keywords": ["craft",
+  	"cms",
+  	"craftcms",
+      	"craft-plugin",
+        "facebook",
+      	"facebook-feed"],
   "license": "MIT",
   "authors": [
-    {
-      "name": "Dotsquares",
-      "homepage": "https://dotsquares.com/"
-    }
+  	{
+          "name": "Dotsquares",
+          "homepage": "https://dotsquares.com/"
+        }
   ],
   "support": {
-   "email": "support.extensions@dotsquares.com",
-    "issues": "https://github.com/ds/craft-facebook/issues",
-    "source": "https://github.com/ds/craft-facebook/",
-    "docs": "https://github.com/ds/craft-facebook/blob/master/README.md"
-
+    "email": "namita.kaloya@dotsquares.com",
+    "issues": "https://github.com/developer/repo/issues?state=open",
+    "source": "https://github.com/developer/repo",
+    "docs": "https://github.com/developer/repo/blob/master/README.md"
   },
   "require": {
     "craftcms/cms": "^3.1.0"
@@ -35,7 +32,7 @@
   },
   "extra": {
     "name": "Facebook Feed",
-    "handle": "facebook",
+    "handle": "dsfacebook",
     "description": "Add your public facebook page feed to your Craft CMS site",
     "hasCpSection": false,
     "hasSettings": true,
