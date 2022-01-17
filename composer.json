@@ -1,8 +1,9 @@
 {
   "name": "ds/craft-facebook",
-  "description": "A plugin for Craft CMS that helps you to add Facebook Feed in  your Craftcms website.",
+  "description": "A plugin for Craft CMS that helps you  to add Facebook Feed in  your Craftcms website",
   "type": "craft-plugin",
-  "version": "1.1.0",
+
+     "version": "1.1.0",
   "keywords": [
     "craft",
     "cms",
@@ -18,13 +19,14 @@
     }
   ],
   "support": {
-    "email": "support.extensions@dotsquares.com",
+   "email": "support.extensions@dotsquares.com",
     "issues": "https://github.com/ds/craft-facebook/issues",
     "source": "https://github.com/ds/craft-facebook/",
     "docs": "https://github.com/ds/craft-facebook/blob/master/README.md"
+
   },
   "require": {
-    "craftcms/cms": "^3.5.0"
+    "craftcms/cms": "^3.1.0"
   },
   "autoload": {
     "psr-4": {
